@@ -30,7 +30,7 @@ Lancer votre projet : ionic serve<br/>
 Lancer votre projet sous vision telephone : ionic serve --lab
 </p>
 <p>
-Une fois sur la _console_ :<br/>
+Une fois sur la <i>console</i> :<br/>
 Quitter : quit<br/>
 Logs : serverlogs<br/>
 Restart : restart
