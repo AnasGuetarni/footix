@@ -4,7 +4,7 @@ Application developped by Anas Guetarni, Gay Melvin, Albahraoui Mimoun
 
 # Commands
 
-Cloner le projet : git clone https://github.com/AnasGuetarni/footix.git
+Cloner le projet : git clone https://github.com/AnasGuetarni/footix.git \n
 Se rendre sur le projet : cd footix/
 Installer les modules : (sudo) npm install 
 Voir l'état de votre projet ft sace au git : git status
